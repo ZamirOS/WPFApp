@@ -42,10 +42,10 @@ namespace WpfAppTabMenu
                     GridMain.Background = Brushes.BlueViolet;
                     break;
                 case 1:
-                    GridMain.Background = Brushes.Beige;
+                    GridMain.Background = Brushes.Bisque;
                     break;
                 case 2:
-                    GridMain.Background = Brushes.CadetBlue;
+                    GridMain.Background = Brushes.Chartreuse;
                     break;
                 case 3:
                     GridMain.Background = Brushes.DarkBlue;
