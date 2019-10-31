@@ -39,7 +39,7 @@ namespace WpfAppTabMenu
             switch (index)
             {
                 case 0:
-                    GridMain.Background = Brushes.Aquamarine;
+                    GridMain.Background = Brushes.BlueViolet;
                     break;
                 case 1:
                     GridMain.Background = Brushes.Beige;
